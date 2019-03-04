@@ -1,0 +1,195 @@
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\FBT全带宽产品测试系统.exe.manifest
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\FBT全带宽产品测试系统.application
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\FBT全带宽产品测试系统.exe
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\FBT全带宽产品测试系统.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\CalcSpec.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\FormUI.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\IPAddressControlLib.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\OptionForm.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\Result.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\SweepStatus.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\Update.exe
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\ZedGraph.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\Update.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\CalcSpec.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\OptionForm.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\FormUI.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\SweepStatus.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\Result.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\bin\Release\Interop.Microsoft.Office.Core.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\Interop.Microsoft.Office.Core.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FormAbout.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FormLogin.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FormReview.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormCOM.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormDual.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormDWDM.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormFBT.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormFWDM.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormMake.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormOption.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormParameter.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormSignle.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormSweepWave.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Properties.Resources.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FrmFBT.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FrmMain.resources
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\全带宽产品测试系统.csproj.GenerateResource.Cache
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.TrustInfo.xml
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.exe.manifest
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.application
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.exe
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.exe.manifest
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.application
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.exe
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\Interop.Microsoft.Office.Core.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.exe
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.exe.manifest
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.application
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.exe
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\全带宽产品测试系统\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FormAbout.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FormLogin.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FormReview.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormCOM.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormDual.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormDWDM.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormFBT.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormFWDM.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormMake.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormOption.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormParameter.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormSignle.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Option.FormSweepWave.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.Properties.Resources.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FrmFBT.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\CWDM1To4.FrmMain.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\全带宽产品测试系统.csproj.GenerateResource.Cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.TrustInfo.xml
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.exe.manifest
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT测试\obj\Release\FBT全带宽产品测试系统.application
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.exe.manifest
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.application
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.exe
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormAbout.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormLogin.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormReview.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormCOM.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormDual.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormDWDM.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormFBT.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormFWDM.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormMake.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormOption.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormParameter.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormSignle.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormSweepWave.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Properties.Resources.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FrmMain.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\全带宽产品测试系统.csproj.GenerateResource.Cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.TrustInfo.xml
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.exe.manifest
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.application
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.exe
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FrmSet.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.exe
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.pdb
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.exe.manifest
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.application
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.exe
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.pdb
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormAbout.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormLogin.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormReview.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FrmSet.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormCOM.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormDual.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormDWDM.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormFBT.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormFWDM.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormMake.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormOption.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormParameter.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormSignle.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormSweepWave.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Properties.Resources.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FrmMain.resources
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\全带宽产品测试系统.csproj.GenerateResource.Cache
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.TrustInfo.xml
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.exe.manifest
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.application
+F:\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.exe.manifest
+F:\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.application
+F:\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.exe
+F:\OSA扫描全带宽产品 V2.0\全带宽产品测试系统\FBT全带宽产品测试系统.pdb
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\ResolveAssemblyReference.cache
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormAbout.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormLogin.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FormReview.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FrmSet.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormCOM.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormDual.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormDWDM.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormFBT.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormFWDM.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormMake.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormOption.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormParameter.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormSignle.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Option.FormSweepWave.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.Properties.Resources.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\CWDM1To4.FrmMain.resources
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\全带宽产品测试系统.csproj.GenerateResource.Cache
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.TrustInfo.xml
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.exe.manifest
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.application
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.exe
+F:\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.pdb
+D:\软件\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+D:\软件\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.exe
+D:\软件\OSA扫描全带宽产品 V2.0\FBT测试\obj\Release\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\全带宽产品测试系统\FBT全带宽产品测试系统.exe.manifest
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\全带宽产品测试系统\FBT全带宽产品测试系统.application
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\全带宽产品测试系统\FBT全带宽产品测试系统.exe
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\全带宽产品测试系统\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.FormAbout.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.FormLogin.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.FormReview.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.FrmSet.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormCOM.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormDual.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormDWDM.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormFBT.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormFWDM.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormMake.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormOption.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormParameter.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormSignle.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Option.FormSweepWave.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.Properties.Resources.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\CWDM1To4.FrmMain.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\全带宽产品测试系统.csproj.GenerateResource.Cache
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\FBT全带宽产品测试系统.TrustInfo.xml
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\FBT全带宽产品测试系统.exe.manifest
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\FBT全带宽产品测试系统.application
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\FBT全带宽产品测试系统.exe
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FBT测试\obj\Release\FBT全带宽产品测试系统.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FullBandFBT\obj\Release\全带宽产品测试系统.csproj.ResolveComReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FullBandFBT\obj\Release\FBT全带宽产品测试系统.exe
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FullBandFBT\obj\Release\FBT全带宽产品测试系统.pdb

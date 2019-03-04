@@ -1,0 +1,35 @@
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\OptionForm\bin\Release\OptionForm.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\OptionForm\bin\Release\OptionForm.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\OptionForm\obj\Release\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\OptionForm\obj\Release\OptionForm.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\OptionForm\obj\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\OptionForm\bin\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\OptionForm\bin\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\OptionForm\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\OptionForm\obj\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\OptionForm\obj\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\OptionForm\bin\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\OptionForm\bin\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\OptionForm.pdb
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\OptionForm\bin\Release\OptionForm.dll
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\OptionForm\bin\Release\OptionForm.pdb
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\OptionForm.dll
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\OptionForm.pdb
+F:\OSA扫描全带宽产品 V2.0\OptionForm\bin\Release\OptionForm.dll
+F:\OSA扫描全带宽产品 V2.0\OptionForm\bin\Release\OptionForm.pdb
+F:\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\ResolveAssemblyReference.cache
+F:\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\OptionForm.dll
+F:\OSA扫描全带宽产品 V2.0\OptionForm\obj\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\OptionForm\bin\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\OptionForm\bin\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\OptionForm\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\OptionForm\obj\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\OptionForm\obj\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\OptionForm\bin\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\OptionForm\bin\Release\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\OptionForm\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\OptionForm\obj\Release\OptionForm.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\OptionForm\obj\Release\OptionForm.pdb

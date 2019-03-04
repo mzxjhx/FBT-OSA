@@ -1,0 +1,40 @@
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\计算坐标点\obj\Debug\CalcAxis V1.0.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\计算坐标点\obj\Debug\CalcAxis V1.0.pdb
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.pdb
+D:\DWDM\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+D:\DWDM\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+D:\DWDM\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+D:\DWDM\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+D:\DWDM\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.pdb
+D:\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+D:\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+D:\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+D:\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+D:\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\计算坐标点\obj\Debug\CalcAxis V1.0.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算坐标点\bin\Debug\CalcAxis V1.0.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算坐标点\bin\Debug\CalcAxis V1.0.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算坐标点\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算坐标点\obj\Debug\CalcAxis V1.0.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算坐标点\obj\Debug\CalcAxis V1.0.pdb

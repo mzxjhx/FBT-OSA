@@ -1,0 +1,35 @@
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\bin\Release\FormUI.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\bin\Release\FormUI.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\obj\Release\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\obj\Release\FormUI.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\obj\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FormUI\bin\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FormUI\bin\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FormUI\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FormUI\obj\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FormUI\obj\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\bin\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\bin\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\FormUI.pdb
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FormUI\bin\Release\FormUI.dll
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FormUI\bin\Release\FormUI.pdb
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\FormUI.dll
+C:\Users\pc\Downloads\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\FormUI.pdb
+F:\OSA扫描全带宽产品 V2.0\FormUI\bin\Release\FormUI.dll
+F:\OSA扫描全带宽产品 V2.0\FormUI\bin\Release\FormUI.pdb
+F:\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\ResolveAssemblyReference.cache
+F:\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\FormUI.dll
+F:\OSA扫描全带宽产品 V2.0\FormUI\obj\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FormUI\bin\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FormUI\bin\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FormUI\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FormUI\obj\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\FormUI\obj\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FormUI\bin\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FormUI\bin\Release\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FormUI\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FormUI\obj\Release\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\FormUI\obj\Release\FormUI.pdb

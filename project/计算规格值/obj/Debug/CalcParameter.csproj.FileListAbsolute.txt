@@ -1,0 +1,91 @@
+F:\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\CalcSpec.dll
+F:\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\CalcSpec.pdb
+F:\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\OptionForm.dll
+F:\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\OptionForm.pdb
+F:\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+F:\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\CalcSpec.dll
+F:\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\CalcSpec.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\CalcSpec.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\CalcSpec.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\OptionForm.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\OptionForm.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\CalcSpec.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\CalcSpec.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\CalcSpec.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\CalcSpec.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\OptionForm.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算规格值\bin\Debug\OptionForm.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\CalcSpec.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\计算规格值\obj\Debug\CalcSpec.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\CalcSpec.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\CalcSpec.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\OptionForm.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\OptionForm.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\CalcSpec.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\CalcSpec.pdb
+F:\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\CalcSpec.dll
+F:\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\CalcSpec.pdb
+F:\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\OptionForm.dll
+F:\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\OptionForm.pdb
+F:\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+F:\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\CalcSpec.dll
+F:\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\CalcSpec.pdb
+F:\新建文件夹\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\CalcSpec.dll
+F:\新建文件夹\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\CalcSpec.pdb
+F:\新建文件夹\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\OptionForm.dll
+F:\新建文件夹\WDM器件一拖四测试 V1.7\计算规格值\bin\Debug\OptionForm.pdb
+F:\新建文件夹\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\CalcSpec.dll
+F:\新建文件夹\WDM器件一拖四测试 V1.7\计算规格值\obj\Debug\CalcSpec.pdb
+E:\各项目测试软件\FBT\全带宽产品测试系统\计算规格值\bin\Debug\CalcSpec.dll
+E:\各项目测试软件\FBT\全带宽产品测试系统\计算规格值\bin\Debug\CalcSpec.pdb
+E:\各项目测试软件\FBT\全带宽产品测试系统\计算规格值\bin\Debug\OptionForm.dll
+E:\各项目测试软件\FBT\全带宽产品测试系统\计算规格值\bin\Debug\OptionForm.pdb
+E:\各项目测试软件\FBT\全带宽产品测试系统\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\全带宽产品测试系统\计算规格值\obj\Debug\CalcSpec.dll
+E:\各项目测试软件\FBT\全带宽产品测试系统\计算规格值\obj\Debug\CalcSpec.pdb
+F:\全带宽产品测试系统\计算规格值\bin\Debug\CalcSpec.dll
+F:\全带宽产品测试系统\计算规格值\bin\Debug\CalcSpec.pdb
+F:\全带宽产品测试系统\计算规格值\bin\Debug\OptionForm.dll
+F:\全带宽产品测试系统\计算规格值\bin\Debug\OptionForm.pdb
+F:\全带宽产品测试系统\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+F:\全带宽产品测试系统\计算规格值\obj\Debug\CalcSpec.dll
+F:\全带宽产品测试系统\计算规格值\obj\Debug\CalcSpec.pdb
+E:\服务器\源项目\全带宽产品测试系统\计算规格值\bin\Debug\CalcSpec.dll
+E:\服务器\源项目\全带宽产品测试系统\计算规格值\bin\Debug\CalcSpec.pdb
+E:\服务器\源项目\全带宽产品测试系统\计算规格值\bin\Debug\OptionForm.dll
+E:\服务器\源项目\全带宽产品测试系统\计算规格值\bin\Debug\OptionForm.pdb
+E:\服务器\源项目\全带宽产品测试系统\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+E:\服务器\源项目\全带宽产品测试系统\计算规格值\obj\Debug\CalcSpec.dll
+E:\服务器\源项目\全带宽产品测试系统\计算规格值\obj\Debug\CalcSpec.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\计算规格值\bin\Debug\CalcSpec.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\计算规格值\bin\Debug\CalcSpec.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\计算规格值\bin\Debug\OptionForm.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\计算规格值\bin\Debug\OptionForm.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\计算规格值\obj\Debug\CalcSpec.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\计算规格值\obj\Debug\CalcSpec.pdb
+F:\Code\fbt\计算规格值\bin\Debug\CalcSpec.dll
+F:\Code\fbt\计算规格值\bin\Debug\CalcSpec.pdb
+F:\Code\fbt\计算规格值\bin\Debug\OptionForm.dll
+F:\Code\fbt\计算规格值\bin\Debug\OptionForm.pdb
+F:\Code\fbt\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\fbt\计算规格值\obj\Debug\CalcSpec.dll
+F:\Code\fbt\计算规格值\obj\Debug\CalcSpec.pdb
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\计算规格值\bin\Debug\CalcSpec.dll
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\计算规格值\bin\Debug\CalcSpec.pdb
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\计算规格值\bin\Debug\OptionForm.dll
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\计算规格值\bin\Debug\OptionForm.pdb
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\计算规格值\obj\Debug\CalcSpec.dll
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\计算规格值\obj\Debug\CalcSpec.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\计算规格值\bin\Debug\CalcSpec.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\计算规格值\bin\Debug\CalcSpec.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\计算规格值\bin\Debug\OptionForm.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\计算规格值\bin\Debug\OptionForm.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\计算规格值\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\计算规格值\obj\Debug\CalcSpec.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\计算规格值\obj\Debug\CalcSpec.pdb

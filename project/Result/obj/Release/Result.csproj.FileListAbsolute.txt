@@ -1,0 +1,28 @@
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\Result\bin\Release\Result.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\Result\bin\Release\Result.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\Result\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.Result.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.csproj.GenerateResource.Cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.pdb
+F:\OSA扫描全带宽产品 V2.0\Result\bin\Release\Result.dll
+F:\OSA扫描全带宽产品 V2.0\Result\bin\Release\Result.pdb
+F:\OSA扫描全带宽产品 V2.0\Result\obj\Release\ResolveAssemblyReference.cache
+F:\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.Result.resources
+F:\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.csproj.GenerateResource.Cache
+F:\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.dll
+F:\OSA扫描全带宽产品 V2.0\Result\obj\Release\Result.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\Result\bin\Release\Result.dll
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\Result\bin\Release\Result.pdb
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\Result\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\Result\obj\Release\Result.Result.resources
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\Result\obj\Release\Result.csproj.GenerateResource.Cache
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\Result\obj\Release\Result.dll
+E:\C#\锐择光电项目\FBT\FBT-OSA\trunk\FBT\Result\obj\Release\Result.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\Result\bin\Release\Result.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\Result\bin\Release\Result.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\Result\obj\Release\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\Result\obj\Release\Result.Result.resources
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\Result\obj\Release\Result.csproj.GenerateResource.Cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\Result\obj\Release\Result.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品\FBT-OSA\trunk\FBT\Result\obj\Release\Result.pdb

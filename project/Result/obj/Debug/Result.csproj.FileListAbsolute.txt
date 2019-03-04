@@ -1,0 +1,203 @@
+E:\Dot Net\debug\Result\bin\Debug\Result.dll
+E:\Dot Net\debug\Result\bin\Debug\Result.pdb
+E:\Dot Net\debug\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\Dot Net\debug\Result\obj\Debug\Result.dll
+E:\Dot Net\debug\Result\obj\Debug\Result.pdb
+E:\Dot Net\debug\Result\obj\Debug\Result.Result.resources
+E:\Dot Net\debug\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\工作\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+E:\工作\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+E:\工作\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+E:\工作\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\工作\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+E:\工作\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+E:\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+E:\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+E:\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+E:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+E:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+E:\CWDM器件一拖四测试平台1\Result\bin\Debug\Result.dll
+E:\CWDM器件一拖四测试平台1\Result\bin\Debug\Result.pdb
+E:\CWDM器件一拖四测试平台1\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\CWDM器件一拖四测试平台1\Result\obj\Debug\Result.Result.resources
+E:\CWDM器件一拖四测试平台1\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\CWDM器件一拖四测试平台1\Result\obj\Debug\Result.dll
+E:\CWDM器件一拖四测试平台1\Result\obj\Debug\Result.pdb
+E:\CWDM一拖四测试平台 最终版\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+E:\CWDM一拖四测试平台 最终版\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+E:\CWDM一拖四测试平台 最终版\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\CWDM一拖四测试平台 最终版\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+E:\CWDM一拖四测试平台 最终版\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\CWDM一拖四测试平台 最终版\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+E:\CWDM一拖四测试平台 最终版\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+E:\Sofeware\12-19 器件测试平台\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+E:\Sofeware\12-19 器件测试平台\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+E:\Sofeware\12-19 器件测试平台\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\Sofeware\12-19 器件测试平台\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+E:\Sofeware\12-19 器件测试平台\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\Sofeware\12-19 器件测试平台\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+E:\Sofeware\12-19 器件测试平台\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+E:\Sofeware\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+E:\Sofeware\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+E:\Sofeware\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\Sofeware\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+E:\Sofeware\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\Sofeware\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+E:\Sofeware\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+F:\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+F:\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+F:\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+F:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+F:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+F:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+F:\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试平台\Result\bin\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试平台\Result\bin\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试平台\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试平台\Result\obj\Debug\Result.Result.resources
+E:\车间测试软件\CWDM\CWDM器件一拖四测试平台\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试平台\Result\obj\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试平台\Result\obj\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.1\Result\bin\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.1\Result\bin\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.1\Result\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.1\Result\obj\Debug\Result.Result.resources
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.1\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.1\Result\obj\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.1\Result\obj\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.2\Result\bin\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.2\Result\bin\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.2\Result\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.Result.resources
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.2\Result\bin\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.2\Result\bin\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.2\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.Result.resources
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.pdb
+D:\Program Files\CWDM器件一拖四测试 V1.2\Result\bin\Debug\Result.dll
+D:\Program Files\CWDM器件一拖四测试 V1.2\Result\bin\Debug\Result.pdb
+D:\Program Files\CWDM器件一拖四测试 V1.2\Result\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.Result.resources
+D:\Program Files\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+D:\Program Files\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.dll
+D:\Program Files\CWDM器件一拖四测试 V1.2\Result\obj\Debug\Result.pdb
+D:\Program Files\CWDM器件一拖四测试 V1.3\Result\bin\Debug\Result.dll
+D:\Program Files\CWDM器件一拖四测试 V1.3\Result\bin\Debug\Result.pdb
+D:\Program Files\CWDM器件一拖四测试 V1.3\Result\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.Result.resources
+D:\Program Files\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+D:\Program Files\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.dll
+D:\Program Files\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\Result\bin\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\Result\bin\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.Result.resources
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.3\Result\obj\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\Result\bin\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\Result\bin\Debug\Result.pdb
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\Result\obj\Debug\Result.Result.resources
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\Result\obj\Debug\Result.dll
+E:\车间测试软件\CWDM\CWDM器件一拖四测试 V1.4\Result\obj\Debug\Result.pdb
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.dll
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.pdb
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.Result.resources
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.dll
+E:\各项目测试软件\DWDM项目\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.pdb
+D:\DWDM\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.dll
+D:\DWDM\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.pdb
+D:\DWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\ResolveAssemblyReference.cache
+D:\DWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.Result.resources
+D:\DWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+D:\DWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.dll
+D:\DWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\Result\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.Result.resources
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.pdb
+D:\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.dll
+D:\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.pdb
+D:\WDM器件一拖四测试 V1.5\Result\obj\Debug\ResolveAssemblyReference.cache
+D:\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.Result.resources
+D:\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+D:\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.dll
+D:\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\Result\bin\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.Result.resources
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.5\Result\obj\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\Result\bin\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\Result\bin\Debug\Result.pdb
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\Result\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.Result.resources
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.dll
+C:\Documents and Settings\Administrator\桌面\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\Result\bin\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\Result\bin\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.Result.resources
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.pdb
+F:\WDM器件一拖四测试 V1.6\Result\bin\Debug\Result.dll
+F:\WDM器件一拖四测试 V1.6\Result\bin\Debug\Result.pdb
+F:\WDM器件一拖四测试 V1.6\Result\obj\Debug\ResolveAssemblyReference.cache
+F:\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.Result.resources
+F:\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+F:\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.dll
+F:\WDM器件一拖四测试 V1.6\Result\obj\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\Result\bin\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\Result\bin\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.Result.resources
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.pdb
+F:\WDM器件一拖四测试 V1.7\Result\bin\Debug\Result.dll
+F:\WDM器件一拖四测试 V1.7\Result\bin\Debug\Result.pdb
+F:\WDM器件一拖四测试 V1.7\Result\obj\Debug\ResolveAssemblyReference.cache
+F:\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.Result.resources
+F:\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+F:\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.dll
+F:\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.pdb
+F:\新建文件夹\WDM器件一拖四测试 V1.7\Result\bin\Debug\Result.dll
+F:\新建文件夹\WDM器件一拖四测试 V1.7\Result\bin\Debug\Result.pdb
+F:\新建文件夹\WDM器件一拖四测试 V1.7\Result\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.Result.resources
+F:\新建文件夹\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+F:\新建文件夹\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.dll
+F:\新建文件夹\WDM器件一拖四测试 V1.7\Result\obj\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试\Result\bin\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试\Result\bin\Debug\Result.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试\Result\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试\Result\obj\Debug\Result.Result.resources
+E:\各项目测试软件\CWDM\WDM器件一拖四测试\Result\obj\Debug\Result.csproj.GenerateResource.Cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试\Result\obj\Debug\Result.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试\Result\obj\Debug\Result.pdb

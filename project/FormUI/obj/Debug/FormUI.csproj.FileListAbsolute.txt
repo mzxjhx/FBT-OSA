@@ -1,0 +1,71 @@
+E:\订单评审\2015\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\订单评审\2015\FormUI\bin\Debug\FormUI.dll
+E:\订单评审\2015\FormUI\bin\Debug\FormUI.pdb
+E:\订单评审\2015\FormUI\obj\Debug\FormUI.dll
+E:\订单评审\2015\FormUI\obj\Debug\FormUI.pdb
+E:\订单评审\2015\FormUI\bin\Debug\OrderBench.dll
+E:\订单评审\2015\FormUI\bin\Debug\OrderBench.pdb
+E:\订单评审\订单评审 插件\FormUI\bin\Debug\FormUI.dll
+E:\订单评审\订单评审 插件\FormUI\bin\Debug\FormUI.pdb
+E:\订单评审\订单评审 插件\FormUI\bin\Debug\OrderBench.dll
+E:\订单评审\订单评审 插件\FormUI\bin\Debug\OrderBench.pdb
+E:\订单评审\订单评审 插件\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\订单评审\订单评审 插件\FormUI\obj\Debug\FormUI.dll
+E:\订单评审\订单评审 插件\FormUI\obj\Debug\FormUI.pdb
+E:\第三方控件\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\第三方控件\FormUI\obj\Debug\FormUI.pdb
+E:\各项目测试软件\FBT\耦合器数据库 V1.3\FormUI\bin\Debug\FormUI.dll
+E:\各项目测试软件\FBT\耦合器数据库 V1.3\FormUI\bin\Debug\FormUI.pdb
+E:\各项目测试软件\FBT\耦合器数据库 V1.3\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\耦合器数据库 V1.3\FormUI\obj\Debug\FormUI.dll
+E:\各项目测试软件\FBT\耦合器数据库 V1.3\FormUI\obj\Debug\FormUI.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\FormUI\bin\Debug\FormUI.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\FormUI\bin\Debug\FormUI.pdb
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\FormUI.dll
+E:\各项目测试软件\CWDM\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\FormUI.pdb
+F:\WDM器件一拖四测试 V1.7\FormUI\bin\Debug\FormUI.dll
+F:\WDM器件一拖四测试 V1.7\FormUI\bin\Debug\FormUI.pdb
+F:\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\ResolveAssemblyReference.cache
+F:\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\FormUI.dll
+F:\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\FormUI.pdb
+F:\新建文件夹\WDM器件一拖四测试 V1.7\FormUI\bin\Debug\FormUI.dll
+F:\新建文件夹\WDM器件一拖四测试 V1.7\FormUI\bin\Debug\FormUI.pdb
+F:\新建文件夹\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\ResolveAssemblyReference.cache
+F:\新建文件夹\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\FormUI.dll
+F:\新建文件夹\WDM器件一拖四测试 V1.7\FormUI\obj\Debug\FormUI.pdb
+E:\各项目测试软件\FBT\全带宽产品测试系统\FormUI\bin\Debug\FormUI.dll
+E:\各项目测试软件\FBT\全带宽产品测试系统\FormUI\bin\Debug\FormUI.pdb
+E:\各项目测试软件\FBT\全带宽产品测试系统\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\全带宽产品测试系统\FormUI\obj\Debug\FormUI.dll
+E:\各项目测试软件\FBT\全带宽产品测试系统\FormUI\obj\Debug\FormUI.pdb
+F:\全带宽产品测试系统\FormUI\bin\Debug\FormUI.dll
+F:\全带宽产品测试系统\FormUI\bin\Debug\FormUI.pdb
+F:\全带宽产品测试系统\FormUI\obj\Debug\ResolveAssemblyReference.cache
+F:\全带宽产品测试系统\FormUI\obj\Debug\FormUI.dll
+F:\全带宽产品测试系统\FormUI\obj\Debug\FormUI.pdb
+E:\服务器\源项目\全带宽产品测试系统\FormUI\bin\Debug\FormUI.dll
+E:\服务器\源项目\全带宽产品测试系统\FormUI\bin\Debug\FormUI.pdb
+E:\服务器\源项目\全带宽产品测试系统\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\服务器\源项目\全带宽产品测试系统\FormUI\obj\Debug\FormUI.dll
+E:\服务器\源项目\全带宽产品测试系统\FormUI\obj\Debug\FormUI.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\bin\Debug\FormUI.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\bin\Debug\FormUI.pdb
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\obj\Debug\FormUI.dll
+E:\各项目测试软件\FBT\OSA扫描全带宽产品\FormUI\obj\Debug\FormUI.pdb
+F:\Code\fbt\FormUI\bin\Debug\FormUI.dll
+F:\Code\fbt\FormUI\bin\Debug\FormUI.pdb
+F:\Code\fbt\FormUI\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\fbt\FormUI\obj\Debug\FormUI.dll
+F:\Code\fbt\FormUI\obj\Debug\FormUI.pdb
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\FormUI\bin\Debug\FormUI.dll
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\FormUI\bin\Debug\FormUI.pdb
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\FormUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\FormUI\obj\Debug\FormUI.dll
+C:\Documents and Settings\Administrator\桌面\OSA扫描全带宽产品\FormUI\obj\Debug\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\bin\Debug\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\bin\Debug\FormUI.pdb
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\obj\Debug\FormUI.dll
+E:\C#\锐择光电项目\FBT\OSA扫描全带宽产品 V2.0\FormUI\obj\Debug\FormUI.pdb

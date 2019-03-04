@@ -1,0 +1,5 @@
+E:\EDFA\EDFA网络管理\zxForm\bin\Debug\zxForm.dll
+E:\EDFA\EDFA网络管理\zxForm\bin\Debug\zxForm.pdb
+E:\EDFA\EDFA网络管理\zxForm\obj\Debug\ResolveAssemblyReference.cache
+E:\EDFA\EDFA网络管理\zxForm\obj\Debug\zxForm.dll
+E:\EDFA\EDFA网络管理\zxForm\obj\Debug\zxForm.pdb

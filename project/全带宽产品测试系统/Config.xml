@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FBT>
+  
+  <Terminal server ="192.168.0.60" 
+            IP = "192.168.0.60"       
+            />
+  <Terminal server ="192.168.0.60"
+          IP = "192.168.0.58"
+            />
+  <Terminal server ="192.168.0.60"
+          IP = "192.168.0.59"
+            />
+  <Terminal server ="192.168.0.60"
+          IP = "192.168.0.77"
+            />
+  
+  <Terminal server ="192.168.0.71"
+            IP = "192.168.0.71"
+            />
+  <Terminal server ="192.168.0.71"
+          IP = "192.168.0.72"
+            />
+  <Terminal server ="192.168.0.71"
+          IP = "192.168.0.73"
+            />
+  <Terminal server ="192.168.0.71"
+          IP = "192.168.0.74"
+            />
+
+</FBT>

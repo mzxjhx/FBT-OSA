@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcParameter", "计算规格值\CalcParameter.csproj", "{3BD0F989-3CFB-473C-9D4C-F6D01550C9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionForm", "OptionForm\OptionForm.csproj", "{EBCE9958-B469-40EA-9D4A-B5FA88B9246A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{211270E1-7C97-40F4-8D64-748270377F2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "全带宽产品测试系统", "FullBandFBT\FullBandFBT.csproj", "{86AFDFD9-C901-4AFB-89EC-B7CA521352CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Result", "Result\Result.csproj", "{BAC6B28B-5D3E-4523-90F5-B871EC1A4648}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD0F989-3CFB-473C-9D4C-F6D01550C9BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD0F989-3CFB-473C-9D4C-F6D01550C9BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD0F989-3CFB-473C-9D4C-F6D01550C9BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD0F989-3CFB-473C-9D4C-F6D01550C9BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCE9958-B469-40EA-9D4A-B5FA88B9246A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCE9958-B469-40EA-9D4A-B5FA88B9246A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCE9958-B469-40EA-9D4A-B5FA88B9246A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCE9958-B469-40EA-9D4A-B5FA88B9246A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211270E1-7C97-40F4-8D64-748270377F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211270E1-7C97-40F4-8D64-748270377F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211270E1-7C97-40F4-8D64-748270377F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211270E1-7C97-40F4-8D64-748270377F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AFDFD9-C901-4AFB-89EC-B7CA521352CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AFDFD9-C901-4AFB-89EC-B7CA521352CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AFDFD9-C901-4AFB-89EC-B7CA521352CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AFDFD9-C901-4AFB-89EC-B7CA521352CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC6B28B-5D3E-4523-90F5-B871EC1A4648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC6B28B-5D3E-4523-90F5-B871EC1A4648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC6B28B-5D3E-4523-90F5-B871EC1A4648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC6B28B-5D3E-4523-90F5-B871EC1A4648}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
