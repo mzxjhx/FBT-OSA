@@ -1,0 +1,515 @@
+E:\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+H:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+H:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\8-28 OSA\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\8-28 OSA\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\8-28 OSA\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\TCPListener.FormTCPServer.resources
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\8-28 OSA\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\8-28 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\8-29 OSA\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\8-29 OSA\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\8-29 OSA\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\8-29 OSA\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\TCPListener.FormTCPServer.resources
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\8-29 OSA\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormTCPServer.resources
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-3 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-5 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-6 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-11 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-14 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.FormOSAServer.resources
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+E:\9-16 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\9-22 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-23 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\9-25 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+D:\9-28 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\9-29 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\10-8 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\10-9 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\10-10 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\10-12 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\10-13 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+D:\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+D:\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+D:\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+D:\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+D:\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+D:\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+D:\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+D:\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+D:\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+D:\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+D:\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+D:\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+D:\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+D:\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+D:\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\10-17 OSA自动测试\OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+D:\复件 OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+D:\复件 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+D:\复件 OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+D:\复件 OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+D:\复件 OSA服务器\TCPListener\bin\Debug\OsaServer.exe
+D:\复件 OSA服务器\TCPListener\bin\Debug\OsaServer.pdb
+D:\复件 OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+D:\复件 OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+D:\复件 OSA服务器\TCPListener\bin\Debug\ZedGraph.dll
+D:\复件 OSA服务器\TCPListener\bin\Debug\Interop.ADOX.dll
+D:\复件 OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+D:\复件 OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+D:\复件 OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+D:\复件 OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+D:\复件 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\OSA服务器\TCPListener\bin\Debug\RibbonMenuButtonControl.dll
+E:\OSA服务器\TCPListener\bin\Debug\TabControlEx.dll
+C:\Documents and Settings\Administrator\桌面\12-19 OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+C:\Documents and Settings\Administrator\桌面\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\桌面\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+C:\Documents and Settings\Administrator\桌面\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\12-19 OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\12-19 OSA服务器\OSA服务器程序\OsaServer.exe
+E:\12-19 OSA服务器\OSA服务器程序\OsaServer.pdb
+E:\12-19 OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\12-19 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\12-21 OSA服务器\TCPListener\obj\Debug\Interop.ADOX.dll
+E:\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.ResolveComReference.cache
+E:\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\12-21 OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.FormChart.resources
+E:\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\12-21 OSA服务器\OSA服务器程序\OsaServer.exe
+E:\12-21 OSA服务器\OSA服务器程序\OsaServer.pdb
+E:\车间测试软件\CWDM\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\车间测试软件\CWDM\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\车间测试软件\CWDM\12-21 OSA服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\车间测试软件\CWDM\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\车间测试软件\CWDM\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\车间测试软件\CWDM\12-21 OSA服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\车间测试软件\CWDM\12-21 OSA服务器\OSA服务器程序\OsaServer.exe
+E:\车间测试软件\CWDM\12-21 OSA服务器\OSA服务器程序\OsaServer.pdb
+E:\各项目测试软件\CWDM\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\各项目测试软件\CWDM\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\各项目测试软件\DWDM项目\OSA服务器\TCPListener\obj\Debug\OsaServer.exe
+E:\各项目测试软件\DWDM项目\OSA服务器\TCPListener\obj\Debug\OsaServer.pdb
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.exe
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.pdb
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\各项目测试软件\DWDM项目\WDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.exe
+E:\各项目测试软件\DWDM项目\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.pdb
+E:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\DWDM\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.exe
+E:\DWDM\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.pdb
+E:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+D:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.exe
+D:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+D:\DWDM\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.exe
+D:\DWDM\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.pdb
+D:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+D:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+D:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+D:\DWDM\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.exe
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.exe
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.pdb
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.exe
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.exe
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\OSA服务器程序\WDM一拖四服务器.pdb
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\OSA服务器程序\DWDM一拖四服务器\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.exe
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.pdb
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\各项目测试软件\CWDM\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.exe
+E:\各项目测试软件\飞秒项目\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.pdb
+I:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.exe
+I:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+H:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.exe
+H:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+H:\飞秒项目\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.exe
+H:\飞秒项目\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.pdb
+H:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+H:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+H:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+H:\飞秒项目\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.exe
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.exe
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\OSA服务器程序\WDM一拖四服务器.pdb
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\OSA服务器 V1.2\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\OSA服务器程序\WDM一拖四服务器.exe
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\OSA服务器程序\WDM一拖四服务器.pdb
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\各项目测试软件\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+F:\OSA服务器 V1.3\TCPListener\obj\Debug\WDM一拖四服务器.exe
+F:\OSA服务器 V1.3\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+F:\OSA服务器 V1.3\OSA服务器程序\WDM一拖四服务器.exe
+F:\OSA服务器 V1.3\OSA服务器程序\WDM一拖四服务器.pdb
+F:\OSA服务器 V1.3\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+F:\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+F:\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+F:\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache
+E:\各项目测试软件\CWDM\OSA服务器 V1.3 beta\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\各项目测试软件\CWDM\OSA服务器 V1.3 beta\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\WDM一拖四服务器.exe
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\WDM一拖四服务器.pdb
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\OSA服务器程序\WDM一拖四服务器.exe
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\OSA服务器程序\WDM一拖四服务器.pdb
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.FormOSAServer.resources
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.Properties.Resources.resources
+E:\C#\锐择光电项目\CWDM\OSA服务器 V1.3\TCPListener\obj\Debug\OsaServer.csproj.GenerateResource.Cache

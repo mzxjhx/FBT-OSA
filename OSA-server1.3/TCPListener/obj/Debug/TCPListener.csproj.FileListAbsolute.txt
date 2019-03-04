@@ -1,0 +1,16 @@
+F:\Tcpip\Tcpip\TCPListener\bin\Debug\TCPListener.exe
+F:\Tcpip\Tcpip\TCPListener\bin\Debug\TCPListener.pdb
+F:\Tcpip\Tcpip\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+F:\Tcpip\Tcpip\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+F:\Tcpip\Tcpip\TCPListener\obj\Debug\TCPListener.csproj.GenerateResource.Cache
+F:\Tcpip\Tcpip\TCPListener\obj\Debug\TCPListener.exe
+F:\Tcpip\Tcpip\TCPListener\obj\Debug\TCPListener.pdb
+F:\Tcpip\Tcpip\TCPListener\obj\Debug\TCPListener.FormTCP.resources
+F:\Tcpip\TCPListener\bin\Debug\TCPListener.exe
+F:\Tcpip\TCPListener\bin\Debug\TCPListener.pdb
+F:\Tcpip\TCPListener\obj\Debug\ResolveAssemblyReference.cache
+F:\Tcpip\TCPListener\obj\Debug\TCPListener.FormTCP.resources
+F:\Tcpip\TCPListener\obj\Debug\TCPListener.Properties.Resources.resources
+F:\Tcpip\TCPListener\obj\Debug\TCPListener.csproj.GenerateResource.Cache
+F:\Tcpip\TCPListener\obj\Debug\TCPListener.exe
+F:\Tcpip\TCPListener\obj\Debug\TCPListener.pdb
